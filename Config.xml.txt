@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.beffPabloG.beta"
+    versionCode = "10"
+    version     = "0.1" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Drake's Bat's</name>
+
+  <description>
+      Drake's Bat's is an arcade style game developed by: Pablo Guevara-Nouvet
+  </description>
+
+  <author href="https://build.phonegap.com" email="Beff000000000000@gmail.com">
+      Hardeep Shoker
+  </author>
+<icon src="_logo.png" />
+</widget>
